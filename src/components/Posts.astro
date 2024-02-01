@@ -1,0 +1,19 @@
+---
+import PostCard from './PostCard.svelte';
+let allPosts = await Astro.glob('../pages/posts/**');
+---
+
+{allPosts.map((post, index) => {
+      const href = `/posts/${post.file.split('/').pop().split('.').shift()}`;
+      /*return (
+        <div>
+          { index !== 0 && <hr /> }
+          <div class="post-item">
+            <h2>
+              <a href={href}>{post.frontmatter.title}</a>
+            </h2> 
+          </div>
+        </div>
+      )*/
+      return <PostCard title={post.frontmatter.title} href={href}/> <br />; 
+})}

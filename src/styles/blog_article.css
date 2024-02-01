@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.title {
+    padding: 1em 1em 0.4em 1em;
+    text-align: center;
+}
+
+.subtext {
+    text-align: center;
+    padding-bottom: 1em;
+}
+p {
+   font-family: 'Poppins', sans-serif; 
+   padding: 0.6em 30em 0.6em 30em;
+   text-align: center;
+}
+
+h3 {
+   font-family: 'Poppins', sans-serif;
+   padding: 1em;
+   /*padding: 0.6em 40em 0.6em 40em;*/
+   font-size: 1.5em;
+   text-align: center;
+}
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+a {
+    color: blue !important;
+}
+
+/* PDF viewer */
+object {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+
+/* Slides */
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,21 @@
+---
+// 1. The frontmatter prop gives access to frontmatter and other data
+const { frontmatter } = Astro.props;
+import '../styles/blog_article.css';
+import NavBar from '../components/NavBar.svelte';
+---
+<html>
+  <head>
+    <!-- Add other Head elements here, like styles and meta tags. -->
+    <title>{frontmatter.title}</title>
+  </head>
+  <body>
+    <NavBar />
+    <!-- Add other UI components here, like common headers and footers. -->
+    <h1 class="text-4xl title">{frontmatter.title}</h1>
+    <h4 class="subtext">{frontmatter.description}</h4>
+    <!-- 2. Rendered HTML will be passed into the default slot. -->
+    <slot />
+    <br />
+  </body>
+</html>
