@@ -17,10 +17,7 @@ let allPosts = await Astro.glob("../pages/posts/**");
         </div>
       )*/
     return (
-      <>
         <PostCard title={post.frontmatter.title} href={href} />
-        <br />
-      </>
     );
   })
 }
