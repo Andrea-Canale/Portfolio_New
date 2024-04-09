@@ -5,5 +5,7 @@ import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), svelte()]
+  integrations: [tailwind(), svelte()],
+  base: "/Portfolio_New",
+  site: "https://andrea-canale.github.io/Portfolio_New"
 });

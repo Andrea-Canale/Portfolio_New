@@ -11,4 +11,4 @@ Alla fine dell'anno 2021-2022 la professoressa Arruzza ha chiesto di fare una ri
 
 Quindi con Marco Cellini e Gioele Mari abbiamo scritto un sito che potete trovare [qui](https://ed-civica.vercel.app/)
 
-<img src="/images/sito_screen.png"/>
+<img src="/Portfolio_New/images/sito_screen.png"/>

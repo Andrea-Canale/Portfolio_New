@@ -13,15 +13,15 @@ Abbiamo poi visto le figure di Falcone e Borsellino e dell'importanza del pool a
 
 Infine, abbiamo visto le stragi di Via D'Amelio e di Capaci e la sparizione dell'agenda rossa.
 
-<img src="/images/falcone_borsellino.avif" alt="Falcone e Borsellino" />
+<img src="/Portfolio_New/images/falcone_borsellino.avif" alt="Falcone e Borsellino" />
 
 ### Percorso agende rosse
 
 Successivamente abbiamo fatto un incontro con agende rosse, ci hanno spiegato diversi aspetti della mafia e della sua storia. L'incontro è sommarizzato in questo PDF:
 
-<object data="/pdf/la_speranza_di_paolo.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/pdf/la_speranza_di_paolo.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/la_speranza_di_paolo.pdf">Download PDF</a>.</p>
+<object data="/Portfolio_New/pdf/la_speranza_di_paolo.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/Portfolio_New/pdf/la_speranza_di_paolo.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Portfolio_New/pdf/la_speranza_di_paolo.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -33,7 +33,7 @@ Abbiamo visto l'opera teatrale "Mi chiamo Rita Atria" riguardante la storia di R
 
 Abbiamo visto la figura Peppino Impastato e abbiamo assistito all'opera teatrale "Mare Addosso" sulla lotta per la verità della madre di Peppino Impastato.
 
-<img src="/images/peppino_impastato.avif" alt="Peppino Impastato" />
+<img src="/Portfolio_New/images/peppino_impastato.avif" alt="Peppino Impastato" />
 
 ### Incontro con il procuratore Gratteri
 

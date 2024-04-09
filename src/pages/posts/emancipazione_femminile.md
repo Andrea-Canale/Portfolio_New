@@ -14,4 +14,4 @@ Sul tema dell'emancipazione femminile, abbiamo visto la storia delle varie conqu
 
 Poi abbiamo lette il libro di Franca Viola "Oliva Denaro", un racconto di una ragazza che dopo aver subito degli abusi sessuali si rivolta contro la mentalità del tempo e rifiuta il matrimonio riparatore denunciando il suo aguzzino.
 
-<img src="/images/franca_viola_libro.jpg" width="500px"/>
+<img src="/Portfolio_New/images/franca_viola_libro.jpg" width="500px"/>

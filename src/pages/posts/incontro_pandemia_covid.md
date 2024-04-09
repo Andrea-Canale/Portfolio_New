@@ -11,9 +11,9 @@ Abbiamo fatto una conferenza con il Dott. Mario Raviglione al termine della qual
 
 Successivamente andremo a scrivere una relazione sui virus che trovate qui sotto.
 
-<object data="/pdf/virus.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/pdf/virus.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Portfolio/assets/pdf/virus.pdf">Download PDF</a>.</p>
+<object data="/Portfolio_New/pdf/virus.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/Portfolio_New/pdf/virus.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/Portfolio/assets/Portfolio_New/pdf/virus.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

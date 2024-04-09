@@ -9,4 +9,4 @@ tags: ["italiano", "pena di morte"]
 
 Dopo aver letto "L'ultimo giorno di un condannato a morte" di Victor Hugo abbiamo discusso sul tema della pena di morte.
 
-<img src="/images/ultimo_giorno_di_un_condannato_a_morte.jpg" alt="Copertina Ultimo giorno di un condannato a morte" />
+<img src="/Portfolio_New/images/ultimo_giorno_di_un_condannato_a_morte.jpg" alt="Copertina Ultimo giorno di un condannato a morte" />

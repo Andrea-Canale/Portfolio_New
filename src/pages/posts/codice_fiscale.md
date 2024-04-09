@@ -11,7 +11,7 @@ Per quanto riguarda educazione civica ed informatica, l'anno scorso abbiamo fatt
 
 Abbiamo studiato la composizione del codice fiscale e come calcolare le varie parti.
 
-<img src="/images/codice_fiscale_struttura.png" alt="Struttura codice fiscale" />
+<img src="/Portfolio_New/images/codice_fiscale_struttura.png" alt="Struttura codice fiscale" />
 
 <br />
 
