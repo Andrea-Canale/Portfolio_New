@@ -12,7 +12,7 @@
   </NavBrand>
   <NavHamburger  />
   <NavUl >
-    <NavLi href="/">Home</NavLi>
+    <NavLi href="/Portfolio_New">Home</NavLi>
     <NavLi>
       2020-2021
     </NavLi>
