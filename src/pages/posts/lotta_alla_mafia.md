@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
-title: 'Lotta alla mafia'
+title: "Lotta alla mafia"
 pubDate: 2024-08-p1
-description: 'Falcone e Borsellino, Peppino Impastato, il pool antimafia e le stragi'
-author: 'Andrea Canale'
+description: "Falcone e Borsellino, Peppino Impastato, il pool antimafia e le stragi"
+author: "Andrea Canale"
 tags: ["biologia", "covid-19"]
 ---
 
@@ -25,8 +25,26 @@ Successivamente abbiamo fatto un incontro con agende rosse, ci hanno spiegato di
     </embed>
 </object>
 
+### Rita Atria
+
+Abbiamo visto l'opera teatrale "Mi chiamo Rita Atria" riguardante la storia di Rita Atria figlia di un importante boss mafioso la quale era riuscita a scappare dalla Sicilia grazie a Paolo Borsellino.
+
 ### Peppino Impastato
 
-Infine, abbiamo visto la figura Peppino Impastato e abbiamo visto il film "Mare Addosso" sulla lotta per la verità della madre di Peppino Impastato.
+Abbiamo visto la figura Peppino Impastato e abbiamo assistito all'opera teatrale "Mare Addosso" sulla lotta per la verità della madre di Peppino Impastato.
 
 <img src="/images/peppino_impastato.avif" alt="Peppino Impastato" />
+
+### Incontro con il procuratore Gratteri
+
+Infine, Abbiamo partecipato ad un incontro online sulla 'Ndrangheta con il procuratore Gratteri.
+
+<iframe
+    width="485"
+    height="315"
+    src="https://www.youtube.com/embed/JjV_6RxNlyY?si=Xd8fB-d_gTq6OuNg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+/>
