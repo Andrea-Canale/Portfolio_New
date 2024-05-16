@@ -1,10 +1,12 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
 title: 'Emancipazione femminile'
+icon: "/images/franca_viola_libro.jpg"
 pubDate: 2023-01-08
 description: 'Conferenza sul COVID-19'
 author: 'Andrea Canale'
 tags: ["biologia", "covid-19"]
+anno_scolastico: 2021-2022
 ---
 
 Sul tema dell'emancipazione femminile, abbiamo visto la storia delle varie conquiste della donna:

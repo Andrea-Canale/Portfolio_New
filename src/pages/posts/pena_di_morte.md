@@ -1,10 +1,12 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
 title: 'Pena di morte'
+icon: "/images/ultimo_giorno_di_un_condannato_a_morte.jpg"
 pubDate: 2023-01-08
 description: 'La pena di morte nella storia'
 author: 'Andrea Canale'
 tags: ["italiano", "pena di morte"]
+anno_scolastico: 2022-2023
 ---
 
 Dopo aver letto "L'ultimo giorno di un condannato a morte" di Victor Hugo abbiamo discusso sul tema della pena di morte.

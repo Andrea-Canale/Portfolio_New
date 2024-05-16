@@ -1,10 +1,12 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
 title: "Lotta alla mafia"
+icon: "/images/falcone_borsellino.avif"
 pubDate: 2024-08-p1
 description: "Falcone e Borsellino, Peppino Impastato, il pool antimafia e le stragi"
 author: "Andrea Canale"
 tags: ["biologia", "covid-19"]
+anno_scolastico: 2022-2023
 ---
 
 Come primo argomento abbiamo trattato il tema della mafia in Italia. In particolar modo ci siamo soffermati sulla composizione delle organizzazioni mafiose italiane e poi ci siamo concentrati sulla mafia corleonese.

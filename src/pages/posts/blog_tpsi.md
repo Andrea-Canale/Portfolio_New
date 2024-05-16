@@ -1,10 +1,12 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
 title: 'Blog TPSI'
+icon: '/images/winehq.webp'
 pubDate: 2024-09-04
 description: 'Scrittura di un articolo per il blog del professor Mancuso'
 author: 'Andrea Canale'
 tags: ["tpsi", "informatica"]
+anno_scolastico: 2022-2023
 ---
 
 Ad inizio anno abbiamo svolto un progetto interdisciplinare ideato dal docente di TPSI (Tecnologia per Progettazione di Sistemi Informatici) ovvero l'ideazione e la scrittura di un articolo per un blog.

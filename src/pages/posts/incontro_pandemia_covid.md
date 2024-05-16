@@ -1,10 +1,12 @@
 ---
 layout: ../../layouts/blog_page_layout.astro
 title: 'Incontro con Mario Raviglione'
+image: '/images/covid_19.webp'
 pubDate: 2023-02-03
 description: 'Conferenza sul COVID-19'
 author: 'Andrea Canale'
 tags: ["biologia", "covid-19"]
+anno_scolastico: 2020-2021
 ---
 
 Abbiamo fatto una conferenza con il Dott. Mario Raviglione al termine della quale abbiamo capito molte cose sui virus in generale e in particolare sul COVID-19 e l'importanza delle disposizioni di sicurezza.

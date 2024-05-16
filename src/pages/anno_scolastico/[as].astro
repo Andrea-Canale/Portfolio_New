@@ -1,0 +1,23 @@
+---
+import { params_anni } from './params';
+export function getStaticPaths() {
+  return params_anni;
+}
+
+import PostCard from "../../components/PostCard.svelte";
+import PostsPage from "../../layouts/posts_page.astro";
+let allPosts = await Astro.glob("../../pages/posts/**");
+
+const { as } = Astro.params;
+---
+
+<PostsPage>
+{
+  allPosts.filter(post => post.frontmatter.anno_scolastico == as).map((post) => {
+    const href = `/Portfolio_New/posts/${post.file.split("/").pop().split(".").shift()}`;
+    return (
+        <PostCard title={post.frontmatter.title} href={href} icon={"/Portfolio_New".concat(post.frontmatter.icon)}/>
+    );
+  })
+}
+</PostsPage>

@@ -14,6 +14,7 @@ import NavBar from '../components/NavBar.svelte';
     <!-- Add other UI components here, like common headers and footers. -->
     <h1 class="text-4xl title">{frontmatter.title}</h1>
     <h4 class="subtext">{frontmatter.description}</h4>
+    <img src={"/Portfolio_New".concat(frontmatter.icon)} width="300px"/>
     <!-- 2. Rendered HTML will be passed into the default slot. -->
     <slot />
     <br />
